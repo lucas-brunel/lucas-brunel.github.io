@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Lucas Brunel</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/?simply_static_page=237" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 01 Jan 2023 11:08:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jan 2023 20:28:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
